@@ -101,6 +101,7 @@ def get_answer():
 
                                     prompt = get_prompt(data['prompts'][sel_prompt], selected_topic, selected_subtopic, language)   
                                     print(prompt) 
+
                                     st.write(prompt)
                                     response = requests.post(f"{url}/code?code_prompt={prompt}", headers=headers)
                                     # Check response code and proceed

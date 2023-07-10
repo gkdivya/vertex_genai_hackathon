@@ -7,7 +7,7 @@
             "Explication Brève": "Give me information on {selected_subtopic} in 100 words max in {selected_language}",
             "Top 3 Cours": "Suggérez les 3 meilleurs cours pour apprendre {selected_topic} - {selected_subtopic}",
             "Plan d'Apprentissage": "Suggérez un plan d'apprentissage pour {selected_topic} - {selected_subtopic}",
-            "Code Snippet":"Generate python code to preprocess images using Keras and comment in {selected_language}"
+            "Extrait de code":"Generate python code to preprocess images using Keras and comment in {selected_language}"
         },
         "topics": [
             {
