@@ -22,6 +22,6 @@ Whether you are a beginner just stepping into the world of AI, or an experienced
 * GCP Cloud Run for Deployment
 
 ### Collaborators:
-Divya G K 
-Pankaja Shankar
-Sara El-Ateif
+* Divya G K 
+* Pankaja Shankar
+* Sara El-Ateif
