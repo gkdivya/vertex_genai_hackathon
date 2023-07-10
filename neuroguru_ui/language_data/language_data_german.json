@@ -1,0 +1,61 @@
+{
+    "German": {
+        "title": "NeuroGuru-AI Bildungsplattform",
+        "intro": "Willkommen auf der interaktiven AI Bildungsplattform!",
+        "language_choice": "Wähle deine Sprache",
+        "prompts": {
+            "Kurze Erläuterung": "Geben Sie mir Informationen über {selected_subtopic} in maximal 100 Wörtern",
+            "Top 3 Kurse": "Schlage die Top 3 Kurse vor, um {selected_topic} - {selected_subtopic} zu lernen",
+            "Lernplan": "Schlage einen Lernplan für {selected_topic} - {selected_subtopic} vor"
+        },
+        "topics": [
+            {
+                "topic": "Generatives KI",
+                "sub_topics": ["Einführung in die Grundkonzepte der generativen KI",
+                "Arten von generativen Modellen",
+                "Transformatorbasierte generative Modelle",
+                "Textgenerierung",
+                "Bildgenerierung",
+                "Musik- und Kunstgenerierung"]                    
+            },
+            {
+                "topic": "Maschinelles Lernen",
+                "sub_topics": ["Einführung in maschinelles Lernen",
+                                "Einführung in überwachtes Lernen",
+                                "Einführung in unüberwachtes Lernen",
+                                "Grundkonzepte des Verstärkungslernens"]
+            }, 
+            {
+                "topic": "Tiefes Lernen",
+                "sub_topics": ["Einführung in tiefes Lernen",
+                                "Tiefes Lernen Frameworks",
+                                "Arten von tiefen neuronalen Netzwerken",
+                                "Training einfacher Modelle für tiefes Lernen"]
+            }, 
+            {
+                "topic": "Natürliche Sprachverarbeitung",
+                "sub_topics": ["Einführung in die NLP",
+                                "Textvorverarbeitung",
+                                "Merkmalsextraktion",
+                                "Sprachmodelle"]
+            }, 
+            {
+                "topic": "Computer Vision",
+                "sub_topics": ["Einführung in Computer Vision",
+                                "Grundlegende Bildverarbeitungstechniken",
+                                "Erkennung und Extraktion von Merkmalen",
+                                "Objekterkennung",
+                                "Bildklassifikation"]
+            }
+        ],
+        "select_topic": "Wähle ein Thema",
+        "selected_topic": "Ausgewähltes Thema",
+        "select_subtopic": "Wählen Sie ein Unterthema",
+        "selected_language": "Ausgewählte Sprache",
+        "start_journey": "Beginnen wir Ihre KI-Reise!",
+        "ai_topic": "Künstliche Intelligenz Themen",
+        "choose_learn": "Wählen",
+        "code_prompt": "Eingabeaufforderung eingeben",
+        "generate": "Generieren" 
+    }
+}

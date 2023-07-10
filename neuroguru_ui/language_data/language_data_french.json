@@ -1,0 +1,64 @@
+{
+    "French": {
+        "title": "Plateforme \u00e9ducative Neuroguru-AI",
+        "intro": "Bienvenue sur la plate-forme \u00e9ducative interactive de l'IA!Choisissez votre langue pr\u00e9f\u00e9r\u00e9e et commencez \u00e0 apprendre.",
+        "language_choice": "Choisissez votre langue",
+        "prompts": {
+            "Explication Brève": "Give me information on {selected_subtopic} in 100 words max in {selected_language}",
+            "Top 3 Cours": "Suggérez les 3 meilleurs cours pour apprendre {selected_topic} - {selected_subtopic}",
+            "Plan d'Apprentissage": "Suggérez un plan d'apprentissage pour {selected_topic} - {selected_subtopic}",
+            "Code Snippet":"Generate python code to preprocess images using Keras and comment in {selected_language}"
+        },
+        "topics": [
+            {
+                "topic": "Apprentissage g\u00e9n\u00e9ratif",
+                "sub_topics": ["Introduction aux concepts de base de l'IA générative",
+                "Types de modèles génératifs",
+                "Modèles génératifs basés sur le transformateur",
+                "Génération de texte",
+                "Génération d'images",
+                "Génération de musique et d'art"]
+            },
+            {
+                "topic": "Apprentissage automatique",
+                "sub_topics": ["Introduction à l'apprentissage automatique",
+                "Introduction à l'apprentissage supervisé",
+                "Introduction à l'apprentissage non supervisé",
+                "Apprentissage du renforcement Concepts de base"]
+            },
+            {
+                "topic": "L'apprentissage en profondeur",
+                "sub_topics": ["Introduction à l'apprentissage en profondeur",
+                "Cadres d'apprentissage en profondeur",
+                "Types de réseaux de neurones profonds",
+                "Formation des modèles d'apprentissage en profondeur simples"]
+            },
+            {
+                "topic": "Traitement du langage naturel",
+                "sub_topics": ["Introduction à la PNL",
+                "Prétraitement du texte",
+                "Extraction de caractéristiques",
+                "Modèles de langue"                    
+                ]
+            },
+            {
+                "topic": "Vision par ordinateur",
+                "sub_topics": ["Introduction à la vision par ordinateur",
+                "Techniques de traitement d'image de base",
+                "Détection et extraction des fonctionnalités",
+                "Détection d'objet",
+                "Classification d'image"
+                ]
+            }
+        ],
+        "select_topic": "Choisissez un sujet",
+        "selected_topic": "Sujet s\u00e9lectionn\u00e9",
+        "select_subtopic": "S\u00e9lectionnez un sous-topic",
+        "selected_language": "Langue s\u00e9lectionn\u00e9e",
+        "start_journey": "Commen\u00e7ons votre voyage Ai",
+        "ai_topic": "Sujets d'intelligence artificielle", 
+        "choose_learn": "Choisir",      
+        "code_prompt": "Entrer l'invite",
+        "generate": "G\u00e9n\u00e9rer"
+    }
+}

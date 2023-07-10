@@ -1,0 +1,62 @@
+{
+    "English": {
+        "title": "NeuroGuru-AI Educational Platform",
+        "intro": "Welcome to the interactive AI Educational Platform!",
+        "language_choice": "Choose your language",
+        "prompts": {
+            "Brief Explanation": "Give me information on {selected_subtopic} in 100 words max",
+            "Top 3 Courses": "Suggest top 3 courses to learn {selected_topic} - {selected_subtopic}",
+            "Learning Plan": "Suggest learning plan for {selected_topic} - {selected_subtopic}",
+            "Code Snippet":"Generate python code to preprocess images using Keras and comment in {selected_language}"
+        },
+        "topics": [
+            {
+                "topic": "Generative AI",
+                "sub_topics": ["Introduction to Generative AI Basic Concepts",
+                "Types of Generative Models",
+                "Transformer-based Generative Models",
+                "Text Generation",
+                "Image Generation",
+                "Music and Art Generation"]                    
+            },
+            {
+                "topic": "Machine Learning",
+                "sub_topics": ["Introduction to Machine Learning",
+                                "Introduction to Supervised Learning",
+                                "Introduction to Unsupervised Learning",
+                                "Reinforcement Learning Basic Concepts"]
+            }, 
+            {
+                "topic": "Deep Learning",
+                "sub_topics": ["Introduction to Deep Learning",
+                                "Deep Learning Frameworks",
+                                "Types of Deep Neural Networks",
+                                "Training simple Deep learning models"]
+            }, 
+            {
+                "topic": "Natural Language Processing",
+                "sub_topics": ["Introduction to NLP",
+                                "Text preprocessing",
+                                "Feature extraction",
+                                "Language models"]
+            }, 
+            {
+                "topic": "Computer Vision",
+                "sub_topics": ["Introduction to Computer Vision",
+                                "Basic Image Processing Techniques",
+                                "Feature Detection and Extraction",
+                                "Object Detection",
+                                "Image Classification"]
+            }
+        ],
+        "select_topic": "Pick a Topic",
+        "selected_topic": "Selected topic",
+        "select_subtopic": "Select a Sub-topic",
+        "selected_language": "Selected language",
+        "start_journey": "Let's begin your AI journey!",
+        "ai_topic": "Artificial Intelligence Topics",
+        "choose_learn": "Choose",
+        "code_prompt": "Enter prompt",
+        "generate": "Generate" 
+    }
+}

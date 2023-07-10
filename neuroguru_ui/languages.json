@@ -1,0 +1,9 @@
+{
+    "languages": [
+        {"language": "English", "code": "en"},
+        {"language": "French", "code": "fr"},
+        {"language": "Dutch", "code": "nl"},
+        {"language": "German", "code": "de"},
+        {"language": "Spanish", "code": "es"}
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Spanish": {
+        "title": "Plataforma Educativa NeuroGuru-AI",
+        "intro": "¡Bienvenido a la Plataforma Educativa Interactiva AI!",
+        "language_choice": "Elige tu idioma",
+        "prompts": {
+            "Breve explicación": "Dame información sobre {selected_subtopic} en un máximo de 100 palabras",
+            "Top 3 Cursos": "Sugiere los 3 mejores cursos para aprender {selected_topic} - {selected_subtopic}",
+            "Plan de aprendizaje": "Sugiere un plan de aprendizaje para {selected_topic} - {selected_subtopic}"
+        },
+        "topics": [
+            {
+                "topic": "IA Generativa",
+                "sub_topics": ["Introducción a los Conceptos Básicos de la IA Generativa",
+                "Tipos de Modelos Generativos",
+                "Modelos Generativos basados en Transformadores",
+                "Generación de Texto",
+                "Generación de Imágenes",
+                "Generación de Música y Arte"]
+            },
+            {
+                "topic": "Aprendizaje Automático",
+                "sub_topics": ["Introducción al Aprendizaje Automático",
+                                "Introducción al Aprendizaje Supervisado",
+                                "Introducción al Aprendizaje No Supervisado",
+                                "Conceptos Básicos de Aprendizaje por Reforzamiento"]
+            },
+            {
+                "topic": "Aprendizaje Profundo",
+                "sub_topics": ["Introducción al Aprendizaje Profundo",
+                                "Frameworks de Aprendizaje Profundo",
+                                "Tipos de Redes Neuronales Profundas",
+                                "Entrenamiento de Modelos Simples de Aprendizaje Profundo"]
+            },
+            {
+                "topic": "Procesamiento del Lenguaje Natural",
+                "sub_topics": ["Introducción a NLP",
+                                "Preprocesamiento de Texto",
+                                "Extracción de Características",
+                                "Modelos de Lenguaje"]
+            },
+            {
+                "topic": "Visión por Computadora",
+                "sub_topics": ["Introducción a la Visión por Computadora",
+                                "Técnicas Básicas de Procesamiento de Imágenes",
+                                "Detección y Extracción de Características",
+                                "Detección de Objetos",
+                                "Clasificación de Imágenes"]
+            }
+        ],
+        "select_topic": "Elige un tema",
+        "selected_topic": "Tema seleccionado",
+        "select_subtopic": "Selecciona un subtema",
+        "selected_language": "Idioma seleccionado",
+        "start_journey": "¡Comencemos tu viaje AI!",
+        "ai_topic": "Temas de Inteligencia Artificial",
+        "choose_learn": "Elige",
+        "code_prompt": "Ingresa el prompt",
+        "generate": "Generar" 
+    }
+}

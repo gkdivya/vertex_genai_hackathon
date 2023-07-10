@@ -1,0 +1,61 @@
+{
+    "Dutch": {
+        "title": "NeuroGuru-AI Onderwijsplatform",
+        "intro": "Welkom bij het interactieve AI Onderwijsplatform!",
+        "language_choice": "Kies je taal",
+        "prompts": {
+            "Korte Uitleg": "Geef me informatie over {selected_subtopic} in maximaal 100 woorden",
+            "Top 3 Cursussen": "Stel de top 3 cursussen voor om {selected_topic} - {selected_subtopic} te leren",
+            "Leerplan": "Stel een leerplan voor voor {selected_topic} - {selected_subtopic}"
+        },
+        "topics": [
+            {
+                "topic": "Generatieve AI",
+                "sub_topics": ["Introductie tot de basisbegrippen van generatieve AI",
+                "Typen generatieve modellen",
+                "Transformator-gebaseerde generatieve modellen",
+                "Tekstgeneratie",
+                "Beeldgeneratie",
+                "Generatie van muziek en kunst"]                    
+            },
+            {
+                "topic": "Machine Learning",
+                "sub_topics": ["Introductie tot machine learning",
+                                "Introductie tot Supervised Learning",
+                                "Introductie tot Unsupervised Learning",
+                                "Basisbegrippen van reinforcement learning"]
+            }, 
+            {
+                "topic": "Deep Learning",
+                "sub_topics": ["Introductie tot Deep Learning",
+                                "Deep Learning Frameworks",
+                                "Typen van diepe neurale netwerken",
+                                "Training van eenvoudige deep learning modellen"]
+            }, 
+            {
+                "topic": "Natural Language Processing",
+                "sub_topics": ["Introductie tot NLP",
+                                "Tekstvoorverwerking",
+                                "Kenmerkextractie",
+                                "Taalmodellen"]
+            }, 
+            {
+                "topic": "Computer Vision",
+                "sub_topics": ["Introductie tot Computer Vision",
+                                "Basistechnieken voor beeldverwerking",
+                                "Detectie en extractie van kenmerken",
+                                "Objectdetectie",
+                                "Classificatie van afbeeldingen"]
+            }
+        ],
+        "select_topic": "Kies een onderwerp",
+        "selected_topic": "Geselecteerd onderwerp",
+        "select_subtopic": "Selecteer een subonderwerp",
+        "selected_language": "Geselecteerde taal",
+        "start_journey": "Laten we beginnen met je AI-reis!",
+        "ai_topic": "Onderwerpen over kunstmatige intelligentie",
+        "choose_learn": "Kiezen",
+        "code_prompt": "Voer prompt in",
+        "generate": "Genereren" 
+    }
+}
